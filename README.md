@@ -8,7 +8,7 @@ This is one of them.
 If interested in my approach and comments I invite you to
 read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/12/18/leetcode-169-majority-element-in-java/
 
 Keep in mind that one of the best ways to lear is to read,
 experiment, and repeat. Practice makes perfect.
